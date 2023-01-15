@@ -1,0 +1,15 @@
+"The smart alarm clock is set for %@:%@" = "स्मार्ट अलार्म घड़ी %@:%@ के लिए सेट है";
+
+"Cancel" = "रद्द करना";
+
+"Setup" = "सेटअप";
+
+"Hour" = "घंटा";
+
+"Minute" = "मिनट";
+
+"Smart alarm requires at least 30 minutes interval to be activated." = "स्मार्ट अलार्म को सक्रिय करने के लिए कम से कम 30 मिनट के अंतराल की आवश्यकता होती है । ";
+
+"Wakey requires an access for your health data to make smart alarm usable." = "वेकी को स्मार्ट अलार्म को प्रयोग करने योग्य बनाने के लिए आपके स्वास्थ्य डेटा तक पहुंच की आवश्यकता होती है । ";
+
+"Also make sure you have turned on heart tracking on your Apple Watch." = "यह भी सुनिश्चित करें कि आपने अपने ऐप्पल वॉच पर हार्ट ट्रैकिंग चालू कर दी है । ";

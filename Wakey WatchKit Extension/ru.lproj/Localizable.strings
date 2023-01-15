@@ -1,0 +1,15 @@
+"The smart alarm clock is set for %@:%@" = "Умный будильник установлен на %@:%@";
+
+"Cancel" = "Отменить";
+
+"Setup" = "Установить";
+
+"Hour" = "Час";
+
+"Minute" = "Минута";
+
+"Smart alarm requires at least 30 minutes interval to be activated." = "Умному будильнику нужен минимальный временной интервал в 30 минут, чтобы активироваться";
+
+"Wakey requires an access for your health data to make smart alarm usable." = "Wakey нужен доступ к вашим данным о сердцебиении для работы умного будильника";
+
+"Also make sure you have turned on heart tracking on your Apple Watch." = "Также убедитесь, что на ваших Apple Watch включен трекинг сердечного ритма";

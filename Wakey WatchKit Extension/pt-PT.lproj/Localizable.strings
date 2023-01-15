@@ -1,0 +1,15 @@
+"The smart alarm clock is set for %@:%@" = "O despertador inteligente está definido para %@:%@";
+
+"Cancel" = "Cancelar";
+
+"Setup" = "Configuracao";
+
+"Hour" = "Hora";
+
+"Minute" = "Minuto";
+
+"Smart alarm requires at least 30 minutes interval to be activated." = "O alarme inteligente requer pelo menos 30 minutos de intervalo para ser ativado.";
+
+"Wakey requires an access for your health data to make smart alarm usable." = "O Wakey requer um acesso aos seus dados de saúde para tornar o alarme inteligente utilizável.";
+
+"Also make sure you have turned on heart tracking on your Apple Watch." = "Certifique-se também de ter ativado o rastreamento cardíaco no seu Apple Watch.";

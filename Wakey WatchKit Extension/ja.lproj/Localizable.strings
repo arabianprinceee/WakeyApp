@@ -1,0 +1,15 @@
+"The smart alarm clock is set for %@:%@" = "スマートアラームクロックは %@:%@ に設定されています";
+
+"Cancel" = "キャンセル";
+
+"Setup" = "セットアップ";
+
+"Hour" = "時間";
+
+"Minute" = "分";
+
+"Smart alarm requires at least 30 minutes interval to be activated." = "スマートアラームを有効にするには、少なくとも30分間隔が必要です。";
+
+"Wakey requires an access for your health data to make smart alarm usable." = "Wakey はスマートアラームを使用可能にするためにあなたの健康データのためのアクセスが必要です。";
+
+"Also make sure you have turned on heart tracking on your Apple Watch." = "また、Apple Watch で心臓の追跡をオンにしていることを確認してください。";

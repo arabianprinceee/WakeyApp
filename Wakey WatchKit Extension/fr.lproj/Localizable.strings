@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  Wakey
+
+  Created by Анас Бен Мустафа on 1/15/23.
+  
+*/
+
+"The smart alarm clock is set for %@:%@" = "Le réveil intelligent est réglé sur %@:%@";
+
+"Cancel" = "Annuler";
+
+"Setup" = "Configuration";
+
+"Hour" = "Heure";
+
+"Minute" = "Minute";
+
+"Smart alarm requires at least 30 minutes interval to be activated." = "L'alarme intelligente nécessite un intervalle d'au moins 30 minutes pour être activée.";
+
+"Wakey requires an access for your health data to make smart alarm usable." = "Wakey nécessite un accès à vos données de santé pour rendre l'alarme intelligente utilisable.";
+
+"Also make sure you have turned on heart tracking on your Apple Watch." = "Assurez-vous également que vous avez activé le suivi cardiaque sur votre Apple Watch.";

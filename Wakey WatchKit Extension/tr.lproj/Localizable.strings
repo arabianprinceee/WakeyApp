@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  Wakey
+
+  Created by Анас Бен Мустафа on 1/15/23.
+  
+*/
+
+"The smart alarm clock is set for %@:%@" = "Akıllı çalar saat %@:%@ olarak ayarlandı";
+
+"Cancel" = "İptal etmek";
+
+"Setup" = "Kurulum";
+
+"Hour" = "Saat";
+
+"Minute" = "Dakika";
+
+"Smart alarm requires at least 30 minutes interval to be activated." = "Akıllı alarmın etkinleştirilmesi için en az 30 dakikalık aralık gerekir.";
+
+"Wakey requires an access for your health data to make smart alarm usable." = "Wakey, akıllı alarmı kullanılabilir hale getirmek için sağlık verilerinize erişim gerektirir.";
+
+"Also make sure you have turned on heart tracking on your Apple Watch." = "Ayrıca Apple Watch'unuzda kalp izlemeyi etkinleştirdiğinizden emin olun.";

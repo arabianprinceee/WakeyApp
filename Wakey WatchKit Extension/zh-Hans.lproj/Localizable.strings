@@ -1,0 +1,15 @@
+"The smart alarm clock is set for %@:%@" = "智能闹钟设置为 %@:%@";
+
+"Cancel" = "取消";
+
+"Setup" = "设置";
+
+"Hour" = "小时";
+
+"Minute" = "分钟";
+
+"Smart alarm requires at least 30 minutes interval to be activated." = "智能警报需要至少30分钟间隔才能激活。";
+
+"Wakey requires an access for your health data to make smart alarm usable." = "Wakey 需要访问您的健康数据，以使智能警报可用。";
+
+"Also make sure you have turned on heart tracking on your Apple Watch." = "还要确保您已在Apple Watch上打开心脏跟踪。";

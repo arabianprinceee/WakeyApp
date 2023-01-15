@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "swiftlogger",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/arabianprinceee/SwiftLogger.git",
+      "state" : {
+        "revision" : "cec2b176dccf4f079a3857c6049fedd851bdca13",
+        "version" : "2.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
